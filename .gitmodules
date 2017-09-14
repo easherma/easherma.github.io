@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/easherma/osgisomg-home
+	url = https://github.com/easherma/osgisomg-home/public
 	branch = master
